@@ -9,16 +9,20 @@
 **Validation**: offline and online via A/B testing
 
 ---
-## Advanced workshop: Real-time serving with embedded model
-This workshop is WIP
+## Where to start
 
-It will cover a real-life use case of embedding a machine learning model into streaming app and its troubleshooting.
+Learn MLOps general concepts:
+- [MLOps](https://ml-ops.org/)
 
----
-## Extras
-
-To learn more about real-time serving with embedded ML models:
+Next learn more about real-time serving with embedded ML models:
 - [Machine Learning and Real-Time Analytics in Apache Kafka Applications](https://www.confluent.io/blog/machine-learning-real-time-analytics-models-in-kafka-applications/)
 - [Kafka Streams machine learning examples](https://github.com/confluentinc/kafka-streams-machine-learning-examples)
 - [Streaming Machine Learning at Scale from 100000 IoT Devices with HiveMQ, Apache Kafka and TensorFLow](https://github.com/kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference)
 - [Streaming ML Model Deployment](https://github.com/schmidtbri/streaming-ml-model-deployment)
+
+---
+## Next step: Advanced workshop: Real-time serving with embedded model
+This workshop is WIP
+
+It will cover a real-life use case of embedding a machine learning model into streaming app and its troubleshooting
+
